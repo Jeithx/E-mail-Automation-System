@@ -38,7 +38,7 @@ Bu uygulamayı çalıştırabilmek için Python ve aşağıdaki bağımlılıkla
 
 ## Uygulama Kullanımı
 
-- Gönderen E-posta Adresi ve Şifresi: E-posta adresinizi ve şifrenizi girin. (Gmail kullanıyorsanız, güvenlik nedeniyle "Daha Az Güvenli Uygulamalar" seçeneğini açmanız gerekebilir.)
+- Gönderen E-posta Adresi ve Şifresi: E-posta adresinizi ve şifrenizi girin. (Gmail gibi kurumsal bir e-posta sistemi kullanıyorsanız, password kısmına bir app password edinip bu şifreyi girmeniz gerekecektir.)
 - Konu ve İçerik: Göndereceğiniz e-posta'nın konusu ve içeriğini yazın.
 - Alıcılar: Alıcıların isimlerini ve e-posta adreslerini tabloya ekleyin. Her alıcı için bir satır ekleyebilirsiniz.
 - E-posta Gönderimi: "E-posta Gönder" butonuna tıklayarak toplu e-posta gönderebilirsiniz.
@@ -52,7 +52,7 @@ Bu uygulamayı çalıştırabilmek için Python ve aşağıdaki bağımlılıkla
 - Bu proje GNU Lisansı altında lisanslanmıştır.
 
 ## İletişim
--Bu proje hakkında daha fazla bilgi almak isterseniz, email@example.com adresinden benimle iletişime geçebilirsiniz.
+-Bu proje hakkında daha fazla bilgi almak isterseniz, jeithx@gmail.com adresinden benimle iletişime geçebilirsiniz.
 
 
 
