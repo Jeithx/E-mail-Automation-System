@@ -52,7 +52,7 @@ Bu uygulamayı çalıştırabilmek için Python ve aşağıdaki bağımlılıkla
 - Bu proje GNU Lisansı altında lisanslanmıştır.
 
 ## İletişim
--Bu proje hakkında daha fazla bilgi almak isterseniz, jeithx@gmail.com adresinden benimle iletişime geçebilirsiniz.
+- Bu proje hakkında daha fazla bilgi almak isterseniz, jeithx@gmail.com adresinden benimle iletişime geçebilirsiniz.
 
 
 
